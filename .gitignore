@@ -1,3 +1,5 @@
+.gitignore
+.replit
 input/tweets/
 tests/
 data/githubTweetsDataSet.txt

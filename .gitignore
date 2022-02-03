@@ -1,0 +1,5 @@
+input/tweets/
+tests/
+data/githubTweetsDataSet.txt
+data/tweetsFiltered.txt
+data/sarcasmo_dataset.csv

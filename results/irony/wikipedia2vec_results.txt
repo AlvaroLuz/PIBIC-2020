@@ -1,0 +1,80 @@
+(3718, 501)
+0
+Printing classification for: W2V 300 dimensoes
+
+              precision    recall  f1-score   support
+
+           0       0.60      0.69      0.64       733
+           1       0.65      0.55      0.59       755
+
+    accuracy                           0.62      1488
+   macro avg       0.62      0.62      0.62      1488
+weighted avg       0.62      0.62      0.62      1488
+
+Confusion matrix for SVM:
+[[505 228]
+ [340 415]]
+Confusion matrix, without normalization
+[[505 228]
+ [340 415]]
+Normalized confusion matrix
+[[505 228]
+ [340 415]]
+
+Detailed classification report for MLP: 
+              precision    recall  f1-score   support
+
+           0       0.60      0.66      0.63       733
+           1       0.63      0.57      0.60       755
+
+    accuracy                           0.61      1488
+   macro avg       0.61      0.61      0.61      1488
+weighted avg       0.61      0.61      0.61      1488
+
+Confusion matrix for MLP:
+[[485 248]
+ [328 427]]
+Confusion matrix, without normalization
+[[485 248]
+ [328 427]]
+Normalized confusion matrix
+[[485 248]
+ [328 427]]
+Detailed classification report for Naive Bayes: 
+              precision    recall  f1-score   support
+
+           0       0.57      0.44      0.50       733
+           1       0.56      0.68      0.61       755
+
+    accuracy                           0.56      1488
+   macro avg       0.56      0.56      0.55      1488
+weighted avg       0.56      0.56      0.55      1488
+
+Confusion matrix for Naive Bayes: 
+[[321 412]
+ [241 514]]
+Confusion matrix, without normalization
+[[321 412]
+ [241 514]]
+Normalized confusion matrix
+[[321 412]
+ [241 514]]
+Detailed classification report for Randon Forest: 
+              precision    recall  f1-score   support
+
+           0       0.53      0.61      0.57       733
+           1       0.56      0.48      0.52       755
+
+    accuracy                           0.54      1488
+   macro avg       0.55      0.54      0.54      1488
+weighted avg       0.55      0.54      0.54      1488
+
+Confusion matrix for Randon Forest:
+[[448 285]
+ [394 361]]
+Confusion matrix, without normalization
+[[448 285]
+ [394 361]]
+Normalized confusion matrix
+[[448 285]
+ [394 361]]

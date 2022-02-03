@@ -1,0 +1,306 @@
+(3716, 301)
+0
+Printing classification for: FastText CBOW 300 dimensoes
+
+              precision    recall  f1-score   support
+
+           0       0.61      0.64      0.62       752
+           1       0.61      0.57      0.59       735
+
+    accuracy                           0.61      1487
+   macro avg       0.61      0.61      0.61      1487
+weighted avg       0.61      0.61      0.61      1487
+
+Confusion matrix for SVM:
+[[481 271]
+ [313 422]]
+Confusion matrix, without normalization
+[[481 271]
+ [313 422]]
+Normalized confusion matrix
+[[481 271]
+ [313 422]]
+Detailed classification report for MLP:
+              precision    recall  f1-score   support
+
+           0       0.60      0.62      0.61       752
+           1       0.60      0.58      0.59       735
+
+    accuracy                           0.60      1487
+   macro avg       0.60      0.60      0.60      1487
+weighted avg       0.60      0.60      0.60      1487
+
+Confusion matrix for MLP:
+[[466 286]
+ [306 429]]
+Confusion matrix, without normalization
+[[466 286]
+ [306 429]]
+Normalized confusion matrix
+[[466 286]
+ [306 429]]
+Detailed classification report for Naive Bayes: 
+              precision    recall  f1-score   support
+
+           0       0.58      0.34      0.43       752
+           1       0.52      0.75      0.62       735
+
+    accuracy                           0.54      1487
+   macro avg       0.55      0.54      0.52      1487
+weighted avg       0.55      0.54      0.52      1487
+
+Confusion matrix for Naive Bayes:
+[[254 498]
+ [185 550]]
+Confusion matrix, without normalization
+[[254 498]
+ [185 550]]
+Normalized confusion matrix
+[[254 498]
+ [185 550]]
+Detailed classification report for Randon Forest: 
+              precision    recall  f1-score   support
+
+           0       0.57      0.57      0.57       752
+           1       0.56      0.56      0.56       735
+
+    accuracy                           0.57      1487
+   macro avg       0.57      0.57      0.57      1487
+weighted avg       0.57      0.57      0.57      1487
+
+Confusion matrix for Randon Forest:
+[[431 321]
+ [323 412]]
+Confusion matrix, without normalization
+[[431 321]
+ [323 412]]
+Normalized confusion matrix
+[[431 321]
+ [323 412]]
+(3716, 301)
+0
+Printing classification for: FastText Skip-Gram 300 dimensoes
+
+              precision    recall  f1-score   support
+
+           0       0.59      0.70      0.64       752
+           1       0.62      0.49      0.55       735
+
+    accuracy                           0.60      1487
+   macro avg       0.60      0.60      0.59      1487
+weighted avg       0.60      0.60      0.59      1487
+
+Confusion matrix for SVM: 
+[[527 225]
+ [372 363]]
+Confusion matrix, without normalization
+[[527 225]
+ [372 363]]
+Normalized confusion matrix
+[[527 225]
+ [372 363]]
+Detailed classification report for MLP: 
+              precision    recall  f1-score   support
+
+           0       0.50      0.51      0.50       752
+           1       0.49      0.48      0.49       735
+
+    accuracy                           0.49      1487
+   macro avg       0.49      0.49      0.49      1487
+weighted avg       0.49      0.49      0.49      1487
+
+Confusion matrix for MLP:
+[[382 370]
+ [381 354]]
+Confusion matrix, without normalization
+[[382 370]
+ [381 354]]
+Normalized confusion matrix
+[[382 370]
+ [381 354]]
+Detailed classification report for Naive Bayes: 
+              precision    recall  f1-score   support
+
+           0       0.59      0.38      0.46       752
+           1       0.54      0.73      0.62       735
+
+    accuracy                           0.55      1487
+   macro avg       0.56      0.56      0.54      1487
+weighted avg       0.56      0.55      0.54      1487
+
+Confusion matrix for Naive Bayes:
+[[286 466]
+ [197 538]]
+Confusion matrix, without normalization
+[[286 466]
+ [197 538]]
+Normalized confusion matrix
+[[286 466]
+ [197 538]]
+Detailed classification report for Randon Forest: 
+              precision    recall  f1-score   support
+
+           0       0.57      0.63      0.60       752
+           1       0.58      0.52      0.55       735
+
+    accuracy                           0.58      1487
+   macro avg       0.58      0.58      0.58      1487
+weighted avg       0.58      0.58      0.58      1487
+
+Confusion matrix for Randon Forest:
+[[474 278]
+ [351 384]]
+Confusion matrix, without normalization
+[[474 278]
+ [351 384]]
+Normalized confusion matrix
+[[474 278]
+ [351 384]]
+(3716, 1001)
+0
+Printing classification for: FastText Skip-Gram 1000 dimensoes
+
+              precision    recall  f1-score   support
+
+           0       0.55      0.74      0.63       752
+           1       0.59      0.39      0.47       735
+
+    accuracy                           0.57      1487
+   macro avg       0.57      0.56      0.55      1487
+weighted avg       0.57      0.57      0.55      1487
+
+Confusion matrix for SVM:
+[[559 193]
+ [452 283]]
+Confusion matrix, without normalization
+[[559 193]
+ [452 283]]
+Normalized confusion matrix
+[[559 193]
+ [452 283]]
+
+Detailed classification report for MLP:
+              precision    recall  f1-score   support
+
+           0       0.58      0.61      0.60       752
+           1       0.58      0.55      0.57       735
+
+    accuracy                           0.58      1487
+   macro avg       0.58      0.58      0.58      1487
+weighted avg       0.58      0.58      0.58      1487
+
+Confusion matrix for MLP: 
+[[462 290]
+ [331 404]]
+Confusion matrix, without normalization
+[[462 290]
+ [331 404]]
+Normalized confusion matrix
+[[462 290]
+ [331 404]]
+Detailed classification report for Naive Bayes: 
+              precision    recall  f1-score   support
+
+           0       0.59      0.39      0.47       752
+           1       0.54      0.73      0.62       735
+
+    accuracy                           0.56      1487
+   macro avg       0.57      0.56      0.54      1487
+weighted avg       0.57      0.56      0.54      1487
+
+Confusion matrix for Naive Bayes:
+[[292 460]
+ [200 535]]
+Confusion matrix, without normalization
+[[292 460]
+ [200 535]]
+Normalized confusion matrix
+[[292 460]
+ [200 535]]
+Detailed classification report for Randon Forest: 
+              precision    recall  f1-score   support
+
+           0       0.57      0.58      0.58       752
+           1       0.56      0.55      0.56       735
+
+    accuracy                           0.57      1487
+   macro avg       0.57      0.57      0.57      1487
+weighted avg       0.57      0.57      0.57      1487
+
+Confusion matrix for Randon Forest:
+[[439 313]
+ [332 403]]
+Confusion matrix, without normalization
+[[439 313]
+ [332 403]]
+Normalized confusion matrix
+[[439 313]
+ [332 403]]
+ (3716, 1001)
+0
+Printing classification for: FastText CBOW 1000 dimensoes
+
+              precision    recall  f1-score   support
+           0       0.62      0.65      0.64       752           
+           1       0.63      0.59      0.61       735
+    accuracy                           0.62      1487
+   macro avg       0.62      0.62      0.62      1487
+weighted avg       0.62      0.62      0.62      1487
+Confusion matrix for SVM: 
+[[491 261]
+ [299 436]]
+Confusion matrix, without normalization
+[[491 261]
+ [299 436]]
+Normalized confusion matrix
+[[491 261]
+ [299 436]]
+
+Detailed classification report for MLP:
+              precision    recall  f1-score   support
+           0       0.60      0.59      0.60       752           
+           1       0.59      0.60      0.59       735
+    accuracy                           0.59      1487
+   macro avg       0.59      0.59      0.59      1487
+weighted avg       0.59      0.59      0.59      1487
+Confusion matrix for MLP:
+[[444 308]
+ [295 440]]
+Confusion matrix, without normalization
+[[444 308]
+ [295 440]]
+Normalized confusion matrix
+[[444 308]
+ [295 440]]
+Detailed classification report for Naive Bayes: 
+              precision    recall  f1-score   support
+           0       0.61      0.35      0.45       752           
+           1       0.54      0.77      0.63       735
+    accuracy                           0.56      1487
+   macro avg       0.57      0.56      0.54      1487
+weighted avg       0.57      0.56      0.54      1487
+Confusion matrix for Naive Bayes:
+[[266 486]
+ [172 563]]
+Confusion matrix, without normalization
+[[266 486]
+ [172 563]]
+Normalized confusion matrix
+[[266 486]
+ [172 563]]
+Detailed classification report for Randon Forest: 
+              precision    recall  f1-score   support
+           0       0.57      0.59      0.58       752           
+           1       0.56      0.54      0.55       735
+    accuracy                           0.57      1487
+   macro avg       0.57      0.57      0.57      1487
+weighted avg       0.57      0.57      0.57      1487
+Confusion matrix for Randon Forest:
+[[444 308]
+ [338 397]]
+Confusion matrix, without normalization
+[[444 308]
+ [338 397]]
+Normalized confusion matrix
+[[444 308]
+ [338 397]]
